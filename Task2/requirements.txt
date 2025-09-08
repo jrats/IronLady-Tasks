@@ -1,0 +1,5 @@
+sqlalchemy
+fastapi
+uvicorn
+pydantic[email]
+nltk         #sentiment analysis
